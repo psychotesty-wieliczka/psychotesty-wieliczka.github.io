@@ -98,7 +98,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Badania Psychologicznne Kierowców i Operatorów Maszyn",
+          "title": "Badania Psychologiczne Kierowców i Operatorów Maszyn",
           "text": "&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#header1-0\" data-toolbar=\"-mbrBtnMove\">Zadzwoń</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"tel:+48-608626599\" data-toolbar=\"-mbrBtnMove\">608 626 599</a>",
           "_tags": [
