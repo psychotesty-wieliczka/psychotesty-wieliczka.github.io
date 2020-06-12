@@ -121,7 +121,7 @@
             "showText": true,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "parallax": true,
@@ -137,7 +137,7 @@
           },
           "title": "Badanie przeprowadzamy",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#contacts2-5\" data-toolbar=\"-mbrBtnMove\">w miłej atmosferze</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#header4-2\" data-toolbar=\"-mbrBtnMove\">szybko</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#contacts2-5\" data-toolbar=\"-mbrBtnMove\">W dogodnym dla Państwa terminie (również w weekendy i wieczorem) <br>po wcześniejszej rejestracji telefonicznej.</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#contacts2-5\" data-toolbar=\"-mbrBtnMove\">w miłej atmosferze</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#header4-2\" data-toolbar=\"-mbrBtnMove\">szybko</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#contacts2-5\" data-toolbar=\"-mbrBtnMove\">W dogodnym dla Państwa terminie<br> (również w weekendy i wieczorem) <br>po wcześniejszej rejestracji telefonicznej.</a> ",
           "_tags": [
             "Theme"
           ],
@@ -186,7 +186,7 @@
                 "showText": true,
                 "showTitle": true,
                 "title": "",
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#slider-3\" data-toolbar=\"-mbrBtnMove\">Dysponujemy ładnym lokalem w nowoczesnym budynku.</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#slider-3\" data-toolbar=\"-mbrBtnMove\">Dużym parkingiem.</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#slider-3\" data-toolbar=\"-mbrBtnMove\">Nowoczesnym i łatwym w obsłudze sprzętem.</a> ",
                 "alt": ""
